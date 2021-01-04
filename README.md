@@ -6,7 +6,12 @@ I'm a singer-songwriter/actress who has also recently transitioned into front en
 
 ## What I Can Do:
 
-HTML5 CSS3 SCSS JS/ES6 jQuery React MERN Swift
+HTML5 CSS3 SCSS JS/ES6 jQuery React Swift
+
+## Recent Projects:
+
+- [MERN Stack API](https://gilmoregirlsapi.netlify.app)
+- [Digital Bullet Journal](https://codebird3.github.io/caitlin-klotz-project-five/)
 
 ## Fun Fact!
 
