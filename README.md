@@ -15,7 +15,7 @@ HTML5 CSS3 SCSS JS/ES6 jQuery React MERN Swift
 
 ## Socials
 
-You can also find me on [CodePen](https://codepen.io/CodeBird3)!
+You can also find me on [CodePen](https://codepen.io/CodeBird3)!  
 Check out my [Blog](https://caitlinklotz.medium.com) on Medium.
 
 <!--
