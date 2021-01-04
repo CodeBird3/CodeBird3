@@ -6,7 +6,7 @@ I'm a singer-songwriter/actress who has also recently transitioned into front en
 
 ## What I Can Do:
 
-(/assets/icons8-html-5-48.png) (/assets/icons8-css3-48.png) (/assets/icons8-sass-48.png) (/assets/icons8-javascript-48.png) (/assets/icons8-jquery-50.png) (/assets/icons8-react-native-48.png) (/assets/icons8-swift-48.png)
+![HTML5](/assets/icons8-html-5-48.png) ![CSS3](/assets/icons8-css3-48.png) ![SCSS](/assets/icons8-sass-48.png) ![JavaScript](/assets/icons8-javascript-48.png) ![jQuery](/assets/icons8-jquery-50.png) ![React](/assets/icons8-react-native-48.png) ![Swift](/assets/icons8-swift-48.png)
 
 ## Recent Projects:
 
@@ -20,8 +20,8 @@ I'm a singer-songwriter/actress who has also recently transitioned into front en
 
 ## Socials
 
-(/assets/icons8-codepen-32.png) You can also find me on [CodePen](https://codepen.io/CodeBird3)!  
-(/assets/icons8-medium-monogram-50.png) Check out my [Blog](https://caitlinklotz.medium.com) on Medium.
+![CodePen](/assets/icons8-codepen-32.png) You can also find me on [CodePen](https://codepen.io/CodeBird3)!  
+![Medium](/assets/icons8-medium-monogram-50.png) Check out my [Blog](https://caitlinklotz.medium.com) on Medium.
 
 <!--
 **CodeBird3/CodeBird3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
