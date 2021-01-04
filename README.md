@@ -6,7 +6,7 @@ I'm a singer-songwriter/actress who has also recently transitioned into front en
 
 ## What I Can Do:
 
-HTML5 CSS3 SCSS JS/ES6 jQuery React Swift
+(/assets/icons8-html-5-48.png) (/assets/icons8-css3-48.png) (/assets/icons8-sass-48.png) (/assets/icons8-javascript-48.png) (/assets/icons8-jquery-50.png) (/assets/icons8-react-native-48.png) (/assets/icons8-swift-48.png)
 
 ## Recent Projects:
 
@@ -20,8 +20,8 @@ HTML5 CSS3 SCSS JS/ES6 jQuery React Swift
 
 ## Socials
 
-You can also find me on [CodePen](https://codepen.io/CodeBird3)!  
-Check out my [Blog](https://caitlinklotz.medium.com) on Medium.
+(/assets/icons8-codepen-32.png) You can also find me on [CodePen](https://codepen.io/CodeBird3)!  
+(/assets/icons8-medium-monogram-50.png) Check out my [Blog](https://caitlinklotz.medium.com) on Medium.
 
 <!--
 **CodeBird3/CodeBird3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
