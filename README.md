@@ -16,6 +16,7 @@ HTML5 CSS3 SCSS JS/ES6 jQuery React MERN Swift
 ## Socials
 
 You can also find me on [CodePen](https://codepen.io/CodeBird3)!
+Check out my [Blog](https://caitlinklotz.medium.com) on Medium.
 
 <!--
 **CodeBird3/CodeBird3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
